@@ -11,8 +11,8 @@ My original Keybolitics Articles will be published and stored here in Markdown f
 All contents are written and maintained by me.  
 
 ## Contents
-- 20250916 [同样是投降敌国，为什么罗宪、吾彦可以被赞颂，但洪承畴、吴三桂必须被批判？](./同样是投降敌国，为什么罗宪、吾彦可以被赞颂，但洪承畴、吴三桂必须被批判？.md)
-- 20251025 [我们为什么要旗帜鲜明地抵制《澎湖海战》这部电影？](./我们为什么要旗帜鲜明地抵制《澎湖海战》这部电影？.md)
+- [20250916-同样是投降敌国，为什么罗宪、吾彦可以被赞颂，但洪承畴、吴三桂必须被批判？](./同样是投降敌国，为什么罗宪、吾彦可以被赞颂，但洪承畴、吴三桂必须被批判？.md)
+- [20251025-我们为什么要旗帜鲜明地抵制《澎湖海战》这部电影？](./我们为什么要旗帜鲜明地抵制《澎湖海战》这部电影？.md)
 
 ## License
 The content in this repository is licensed under the Creative Commons  
