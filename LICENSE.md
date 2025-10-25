@@ -1,8 +1,21 @@
-Copyright (c) 2025 XIA Yu 夏舆 October34th
+Copyright (c) 2025 **XIA Yu 夏舆 October34th**
 
-All rights reserved.
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+  for any purpose, even commercially.
 
-The content in this repository (including but not limited to articles, text, and other creative works) is protected by copyright law.  
-You are not permitted to copy, redistribute, modify, or use any part of this repository in any form without prior written permission from the author.
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license,
+  and indicate if changes were made. You may do so in any reasonable manner,
+  but not in any way that suggests the licensor endorses you or your use.
+- **NoDerivatives** — If you remix, transform, or build upon the material,
+  you may not distribute the modified material without permission.
 
-For permissions, please get in touch with me.
+No additional restrictions — You may not apply legal terms or technological
+measures that legally restrict others from doing anything the license permits.
+
+To view a copy of this license, visit:
+https://creativecommons.org/licenses/by-nd/4.0/
+
+For permissions beyond the scope of this license, please contact:
+[夏舆](https://space.bilibili.com/259887266)
